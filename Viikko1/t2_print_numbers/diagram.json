@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "author": "Vasilissa Vilkki",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "id": "pico",
+      "type": "board-pi-pico-w",
+      "attrs": { "env": "micropython-20241129-v1.24.1" }
+    }
+  ],
+  "connections": []
+}
